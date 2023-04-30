@@ -13,3 +13,5 @@ py -3 -m venv .venv
 .venv\scripts\activate
 
 then run pip install -r requirements. txt 
+
+run manage.py runserver
